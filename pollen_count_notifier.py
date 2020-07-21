@@ -29,7 +29,7 @@ def send_sms():         #FUNTION THAT WILL GRAB THE POLLEN COUNT FOR TODAY AND S
 
         #TWILIO
         account_sid = "AC8985f47b608f5031a88032b517fb923c"
-        auth_token  = "59f54b77104f0815953b280eb66b395f"
+        auth_token  = "XXXXXXXXX"
 
         client = Client(account_sid, auth_token)
 
